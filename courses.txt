@@ -1,0 +1,27 @@
+[
+    {
+        "title": "CS101",
+        "name": "Computer Science",
+        "students": [
+            "MuhAli2024"
+        ],
+        "teachers": [
+            "Dr. Ali Shaz"
+        ],
+        "announcements": []
+    },
+    {
+        "title": "CS101",
+        "name": "Computer Science",
+        "students": [],
+        "teachers": [],
+        "announcements": []
+    },
+    {
+        "title": "CS101",
+        "name": "Computer Science",
+        "students": [],
+        "teachers": [],
+        "announcements": []
+    }
+]
